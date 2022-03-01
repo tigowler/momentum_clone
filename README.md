@@ -1,3 +1,3 @@
 # Momentum Clone
 
-Practicing Nomad Koders' JS lecture
+Practicing Javascript Nomad Koders' JS lecture
